@@ -1,0 +1,27 @@
+{
+  "name": "dva_the_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "telebot": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosen1000/dva_the_bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "rosen1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosen1000/dva_the_bot/issues"
+  },
+  "homepage": "https://github.com/rosen1000/dva_the_bot#readme"
+}
